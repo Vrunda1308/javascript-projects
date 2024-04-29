@@ -1,0 +1,15 @@
+﻿body {
+    background-color: #f4f4f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+#videoContainer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
